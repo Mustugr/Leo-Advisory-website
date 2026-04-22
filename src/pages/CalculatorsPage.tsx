@@ -27,7 +27,6 @@ export function CalculatorsPage() {
           </>
         }
         subtitle="Estimate mortgage payments, business-loan costs, and break-even points. Plain math, no sign-up."
-        image="/images/glass-window.avif"
         accent={
           <div className="relative flex h-40 w-40 items-center justify-center rounded-sm border border-gold-400/40 bg-ink-900/60 shadow-gold backdrop-blur-sm md:-translate-x-12 lg:-translate-x-24 xl:-translate-x-32">
             <div className="pointer-events-none absolute -top-2 -left-2 h-6 w-6 border-t border-l border-gold-400/70" />
